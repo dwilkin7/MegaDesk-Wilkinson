@@ -42,7 +42,7 @@ namespace MegaDesk_Wilkinson
             }
         }
 
-        //ComboBoxSurfaceMaterial dropdown test
+        //ComboBoxSurfaceMaterial dropdown test. May need to delete.
         private void comboBoxSurfaceMaterial_KeyPress(object sender, KeyPressEventArgs e)
         {
         }
